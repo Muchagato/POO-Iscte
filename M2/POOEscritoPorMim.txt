@@ -1,0 +1,6 @@
+Programação Orientada para Objetos
+1 20
+2 16
+5 NA
+6 NA
+9 19
